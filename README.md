@@ -3,14 +3,16 @@
 ## About me
 
 <p style="text-align: center;">
-  Hi! My name is Nathan Cardoso, I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a> and I really enjoy the field of technology. I believe that technology can change the world 🌍. <br>
+  Hi! My name is Nathan Cardoso,and I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I am fascinated by cybersecurity and programming. <br>
 </p>
 
 ## Interests
   <ul>
     <li>Cybersecurity</li>
     <li>Ethical Hacking</li> 
-    <li>Programming</li>
+    <li>Back-end Programming</li>
+    <li>Web development</li>
+    <li>Software engineering</li>
   </ul>
 
 ## Languages and tools
@@ -51,12 +53,4 @@
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-cardoso&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathan-cardoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
