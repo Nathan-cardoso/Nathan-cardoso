@@ -29,10 +29,8 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-cardoso&show_icons=true&theme=merko)
 
 ## Connect with me
-
 
 <a href="mailto:nathancar.linhares77@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
