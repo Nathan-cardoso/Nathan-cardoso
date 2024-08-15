@@ -3,7 +3,7 @@
 ## About me
 
 <p style="text-align: center;">
-  Hi! My name is Nathan Cardoso,and I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I am fascinated by cybersecurity and programming. <br>
+  Hi! My name is Nathan Cardoso, and I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I am fascinated by cybersecurity and programming. <br>
 </p>
 
 ## Interests
@@ -22,11 +22,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
