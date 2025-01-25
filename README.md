@@ -7,7 +7,7 @@
 ###
 <p style="text-align: center;">
   Hi! My name is Nathan Cardoso, and I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I am fascinated by cybersecurity and programming. </p>
-<p align="left">- I'm from 🇧🇷 :)<br>-  I'm currently learning Back-end with Java/Spring Boot and python/Django-rest  📚<br>-  In my free time I read and saved Gotham City ⚡ </p>
+<p align="left">- I'm from 🇧🇷 :)<br>- I’m currently working on AltoTech Solutions 🚀<br/>-  I'm currently learning Back-end with Java/Spring Boot and python/Django-Rest  📚<br>-  In my free time I read and saved Gotham City ⚡ </p>
 
 
 # 💻 Tech Stack
@@ -21,8 +21,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-cardoso&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathan-cardoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathan-cardoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
