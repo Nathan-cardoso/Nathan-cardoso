@@ -7,7 +7,7 @@
 ###
 <p style="text-align: center;">
   Hi! My name is Nathan Cardoso, and I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I am fascinated by cybersecurity and programming. </p>
-<p align="left">- I'm from 🇧🇷 :)<br>- I’m currently working on AltoTech Solutions 🚀<br/>-  I'm currently learning Back-end with Java/Spring Boot and python/Django-Rest  📚<br>-  In my free time I read and lose chess games. ⚡ </p>
+<p align="left">- I'm from 🇧🇷 :)<br>- I’m currently working on AltoTech Solutions 🚀<br/>-  I'm currently learning Back-end with python/Django-Rest  📚<br>-  In my free time I read and lose chess games. ⚡ </p>
 
 
 # 💻 Tech Stack
