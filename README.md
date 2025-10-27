@@ -20,7 +20,7 @@
 <p style="text-align: center;">
 Hello Friend! I'm Nathan Cardoso, an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I'm fascinaded about cybersecurity, programming, Linux, open source, coffee and more plus in IT world. It's a pleasure to have you visiting my GitHub profile :)
 </p>
-<p align="left">- I'm from 🇧🇷 :)<br>- I’m currently working on AltoTech Solutions 🚀<br/>-  I'm currently learning development Back-end with python/Django-Rest and Java/Spring Boot  📚<br>-  In my free time I read and lose chess games. ⚡ 
+<p align="left">- I'm from Brazil <br>- I’m currently working on AltoTech Solutions <br/>-  I'm currently learning development Back-end with python/Django-Rest and Java/Spring Boot  <br>-  In my free time I read and lose chess games. 
 </p>
 <p> </p>
 
@@ -45,19 +45,6 @@ Hello Friend! I'm Nathan Cardoso, an Information Technology student at <a href="
 </div>
 
 ###
-
-
-# My Stats :
-
-###
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathan-cardoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"  />
-</div>
-
-###
-
 
 # Contact Me 
 How about we talk about code, bugs or projects?
