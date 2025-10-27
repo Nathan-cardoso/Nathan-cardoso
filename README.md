@@ -25,7 +25,7 @@ Hello Friend! I'm Nathan Cardoso, an Information Technology student at <a href="
 <p> </p>
 
 
-# Tech Stack
+# Tech stack I'm work/learning
 ###
 
 <div align="left">
