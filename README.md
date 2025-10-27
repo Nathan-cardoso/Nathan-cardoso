@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge%22%20height=%2225%22%20alt=%22medium%20logo"  />
 </div>
 
 ###
@@ -71,7 +70,7 @@ nathancar.linhares77@gmail.com
 Or
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="18" alt="linkedin logo" style="vertical-align: middle; margin-right: 6px;">
+  My linkedin profile: 
   <a href="https://www.linkedin.com/in/nathanlinhares/" target="_blank">nathanlinhares</a>
 </div>
 
