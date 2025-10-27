@@ -1,23 +1,54 @@
-<h1 align="center">hey there 👋 </br></h1>
+<div align="center">
+  <img height="200" src="https://pixeljoint.com/files/icons/full/ramiepix2gif__r16811140601.gif"  />
+</div>
 
 ###
 
-# About Me
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nathan-cardoso.Nathan-cardoso&"  />
+</div>
+
+###
 
 ###
 <p style="text-align: center;">
-  Hi! My name is Nathan Cardoso, and I'm an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I am fascinated by cybersecurity and programming. </p>
-<p align="left">- I'm from 🇧🇷 :)<br>- I’m currently working on AltoTech Solutions 🚀<br/>-  I'm currently learning Back-end with python/Django-Rest and node Js  📚<br>-  In my free time I read and lose chess games. ⚡ </p>
+Hello Friend! I'm Nathan Cardoso, an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I'm fascinaded about cybersecurity, programming, Linux, open source, coffee and more plus in IT world. It's a pleasure to have you visiting my GitHub profile :)
+</p>
+<p align="left">- I'm from 🇧🇷 :)<br>- I’m currently working on AltoTech Solutions 🚀<br/>-  I'm currently learning development Back-end with python/Django-Rest and Java/Spring Boot  📚<br>-  In my free time I read and lose chess games. ⚡ 
+</p>
+<p> </p>
 
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+# Tech Stack
+###
 
-### 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
 
 
-# 🔥 My Stats :
+# My Stats :
 
 ###
 
@@ -29,22 +60,21 @@
 ###
 
 
-# ☕ Contact Me 
+# Contact Me 
+How about we talk about code, bugs or projects?
 
-<div align="center">
-  
-<p>Do you like coffee? How about a chat about code and bugs over a cup? It would be a pleasure! 😉</p>
+feel free to call me by e-mail
 
-  <a href="https://www.linkedin.com/in/nathan-linhares-b109b323b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:nathancar.linhares77@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  
+```
+nathancar.linhares77@gmail.com
+```
+Or
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="18" alt="linkedin logo" style="vertical-align: middle; margin-right: 6px;">
+  <a href="https://www.linkedin.com/in/nathanlinhares/" target="_blank">nathanlinhares</a>
 </div>
 
 
-###
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FC2C0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
