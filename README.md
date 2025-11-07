@@ -20,7 +20,7 @@
 <p style="text-align: center;">
 Hello Friend! I'm Nathan Cardoso, an Information Technology student at <a href="https://ufersa.edu.br">UFERSA</a>. I'm fascinaded about cybersecurity, programming, Linux, open source, coffee and more plus in IT world. It's a pleasure to have you visiting my GitHub profile :)
 </p>
-<p align="left">- I'm from Brazil <br>- I’m currently working on AltoTech Solutions <br/>-  I'm currently learning development Back-end with python/Django-Rest and Java/Spring Boot  <br>-  In my free time I read and lose chess games. 
+<p align="left">- I'm from Brazil <br>- I’m currently working on AltoTech Solutions <br/>-  I'm currently learning development Back-end with python/Django-Rest and c#/.NET  <br>-  In my free time I read and lose chess games. 
 </p>
 <p> </p>
 
